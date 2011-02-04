@@ -16,6 +16,8 @@
     
         <asp:ImageButton ID="ImageButton1" runat="server" Height="24px" Width="154px" />
     
+        <asp:Button ID="Button2" runat="server" Text="Button" />
+    
     </div>
     </form>
 </body>
