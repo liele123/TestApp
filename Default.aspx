@@ -16,6 +16,8 @@
     
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     
+        <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
+    
     </div>
     <p>
         &nbsp;</p>
