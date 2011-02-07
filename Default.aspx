@@ -16,12 +16,9 @@
     
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     
-        <asp:Button ID="Button2" runat="server" Text="Button" />
-    
     </div>
     <p>
-        <asp:FileUpload ID="FileUpload1" runat="server" />
-    </p>
+        &nbsp;</p>
     </form>
 </body>
 </html>
