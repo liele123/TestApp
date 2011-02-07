@@ -14,12 +14,6 @@
     
         <asp:Button ID="Button1" runat="server" Text="Button" />
     
-        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
-    
-        <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
-    
-        <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
-    
     </div>
     <p>
         &nbsp;</p>
