@@ -16,6 +16,8 @@
     
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     
+        <asp:AdRotator ID="AdRotator1" runat="server" />
+    
     </div>
     <p>
         &nbsp;</p>
