@@ -14,6 +14,9 @@
     
         <asp:Button ID="Button1" runat="server" Text="Button" />
     
+        <asp:RadioButton ID="RadioButton1" runat="server" />
+        <asp:FileUpload ID="FileUpload1" runat="server" style="margin-left: 22px" />
+    
     </div>
     <p>
         &nbsp;</p>
